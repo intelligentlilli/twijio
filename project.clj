@@ -1,4 +1,4 @@
-(defproject kemurisense/twijio "0.1.2"
+(defproject kemurisense/twijio "0.1.3"
   :description "Pure Clojure library for interacting with Twilio's REST API"
   :url "https://github.com/kemurisense/twijio/"
   :license {:name "Eclipse Public License"
