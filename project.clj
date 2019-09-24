@@ -1,5 +1,5 @@
 (defproject kemurisense/twijio "0.1.5"
-  :description "Pure Clojure library for interacting with Twilio's REST API"
+  :description "Pure Clojure library for interacting with the Twilio REST API, to send SMS messages"
   :url "https://github.com/kemurisense/twijio/"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
